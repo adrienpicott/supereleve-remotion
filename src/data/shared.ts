@@ -42,12 +42,12 @@ export const MATIERE_THEMES: Record<string, { g1: string; g2: string; g3: string
 };
 
 export const MUSIC_URLS: Record<string, string> = {
-  'Castle Festivities': `${S}/music/castle-festivities.mp3`,
-  'Epic Adventure': `${S}/music/epic-adventure.mp3`,
-  'Forest Ambience': `${S}/music/forest-ambience.mp3`,
-  'Medieval Village': `${S}/music/medieval-village.mp3`,
-  'Mystery Dungeon': `${S}/music/mystery-dungeon.mp3`,
-  'Tavern Music': `${S}/music/tavern-music.mp3`,
+  'Castle Festivities': `${S}/music/ES_Castle%20Festivities%20-%20Bonnie%20Grace.mp3`,
+  'Merry on the Moor': `${S}/music/ES_Merry%20on%20the%20Moor%20-%20Bonnie%20Grace.mp3`,
+  'Pagan Rituals': `${S}/music/ES_Pagan%20Rituals%20-%20Roy%20Edwin%20Williams.mp3`,
+  'Ruins of the Keep': `${S}/music/ES_Ruins%20of%20the%20Keep%20-%20Dian%20Shuai.mp3`,
+  "Vagabond's Awakening": `${S}/music/ES_Vagabond's%20Awakening%20-%20Dian%20Shuai.mp3`,
+  'Winds of Aetheria': `${S}/music/ES_Winds%20of%20Aetheria%20-%20Dian%20Shuai.mp3`,
 };
 
 export const SFX_URLS = {
