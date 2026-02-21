@@ -54,9 +54,9 @@ const EXAMPLE_CONFIG: VideoConfig = {
   introSerieEnabled: true,
   template: 'classique',
   backgroundMode: 'gradient',
-  musicUrl: 'https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/music/castle-festivities.mp3',
+  musicUrl: '', // Désactivé en preview — activer pour le render final
   musicVolume: 0.3,
-  sfxEnabled: true,
+  sfxEnabled: false, // Désactivé en preview — activer pour le render final
   fakeStat: 22,
 };
 
