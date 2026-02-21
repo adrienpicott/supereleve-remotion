@@ -54,9 +54,9 @@ const EXAMPLE_CONFIG: VideoConfig = {
   introSerieEnabled: true,
   template: 'classique',
   backgroundMode: 'gradient',
-  musicUrl: '', // Désactivé en preview — activer pour le render final
+  musicUrl: 'https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/music/ES_Castle%20Festivities%20-%20Bonnie%20Grace.mp3',
   musicVolume: 0.3,
-  sfxEnabled: false, // Désactivé en preview — activer pour le render final
+  sfxEnabled: true,
   fakeStat: 22,
 };
 
