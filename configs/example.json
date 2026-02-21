@@ -1,0 +1,104 @@
+[
+  {
+    "question": {
+      "id": "demo-1",
+      "enonce": "Que signifie 6 × 4 ?",
+      "answers": [
+        { "key": "A", "text": "6 + 4", "correct": false },
+        { "key": "B", "text": "4 répété 6 fois", "correct": true },
+        { "key": "C", "text": "6 ÷ 4", "correct": false },
+        { "key": "D", "text": "6 − 4", "correct": false }
+      ],
+      "explication": "6 × 4 signifie 4 + 4 + 4 + 4 + 4 + 4 = 24",
+      "matiere": "Maths",
+      "niveau": "6ème",
+      "chapitre": "Multiplication"
+    },
+    "serieNom": "Maths 6ème",
+    "serieNumber": 1,
+    "personnage": {
+      "id": "PERS-004",
+      "nom": "Archimède",
+      "emoji": "⚙️",
+      "image_url": "https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/personnages/33_archimede.webp",
+      "dialogues": {
+        "intro": "Eurêka ! Un nouveau challenger !",
+        "encouragement_1": "Bien joué ! Ton esprit flotte comme un objet moins dense que l'eau !"
+      },
+      "fun_facts": ["Archimède a couru nu dans les rues en criant Eurêka !", "Ses dernières paroles : Ne dérange pas mes cercles !"],
+      "citation_celebre": "Donnez-moi un point d'appui et je soulèverai le monde.",
+      "description_courte": "Inventeur et mathématicien grec génial"
+    },
+    "hookDuration": 3,
+    "questionDuration": 2,
+    "countdownDuration": 5,
+    "revealDuration": 4,
+    "funFactDuration": 4,
+    "ctaDuration": 3,
+    "hookEnabled": true,
+    "ctaEnabled": true,
+    "bossMode": true,
+    "bossIntroEnabled": true,
+    "funFactsEnabled": true,
+    "statsEnabled": true,
+    "lootEnabled": true,
+    "introSerieEnabled": true,
+    "template": "classique",
+    "backgroundMode": "gradient",
+    "musicUrl": "https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/music/castle-festivities.mp3",
+    "musicVolume": 0.3,
+    "sfxEnabled": true,
+    "fakeStat": 22
+  },
+  {
+    "question": {
+      "id": "demo-2",
+      "enonce": "Quel est le théorème de Pythagore ?",
+      "answers": [
+        { "key": "A", "text": "a + b = c", "correct": false },
+        { "key": "B", "text": "a² + b² = c²", "correct": true },
+        { "key": "C", "text": "a × b = c", "correct": false },
+        { "key": "D", "text": "a² − b² = c²", "correct": false }
+      ],
+      "explication": "Dans un triangle rectangle, le carré de l'hypoténuse (c) est égal à la somme des carrés des deux autres côtés.",
+      "matiere": "Maths",
+      "niveau": "4ème",
+      "chapitre": "Théorème de Pythagore"
+    },
+    "serieNom": "Maths 4ème",
+    "serieNumber": 1,
+    "personnage": {
+      "id": "PERS-001",
+      "nom": "Pythagore",
+      "emoji": "🔺",
+      "image_url": "https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/personnages/31_pythagore.webp",
+      "dialogues": {
+        "intro": "Bienvenue, jeune disciple ! Es-tu prêt à découvrir l'harmonie des nombres ?",
+        "encouragement_1": "Excellent ! Tu commences à voir la musique des mathématiques !"
+      },
+      "fun_facts": ["Pythagore avait une secte secrète où on ne pouvait pas manger de fèves !", "Ses disciples devaient rester silencieux pendant 5 ANS"],
+      "citation_celebre": "Tout est nombre.",
+      "description_courte": "Mathématicien grec du célèbre théorème"
+    },
+    "hookDuration": 3,
+    "questionDuration": 2,
+    "countdownDuration": 5,
+    "revealDuration": 4,
+    "funFactDuration": 4,
+    "ctaDuration": 3,
+    "hookEnabled": true,
+    "ctaEnabled": true,
+    "bossMode": true,
+    "bossIntroEnabled": true,
+    "funFactsEnabled": true,
+    "statsEnabled": true,
+    "lootEnabled": true,
+    "introSerieEnabled": true,
+    "template": "classique",
+    "backgroundMode": "gradient",
+    "musicUrl": "https://bbcldmmgitcofulpfjja.supabase.co/storage/v1/object/public/assets/music/epic-adventure.mp3",
+    "musicVolume": 0.3,
+    "sfxEnabled": true,
+    "fakeStat": 18
+  }
+]
